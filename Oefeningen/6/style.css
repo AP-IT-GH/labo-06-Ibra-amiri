@@ -1,0 +1,28 @@
+div {
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  color: white;
+  font-weight: 500;
+  font-size: 1.15rem;
+  padding: 0.5rem;
+}
+#b1 {
+  background-color: rgb(255, 187, 0);
+  top: 18rem;
+  left: 9rem;
+  z-index: 3;
+}
+#b2 {
+  background-color: rgb(61, 173, 224);
+  top: 21rem;
+  left: 12rem;
+  z-index: 2;
+}
+#b3 {
+  background-color: rgb(37, 38, 126);
+  top: 24rem;
+  left: 15rem;
+  z-index: 1;
+}
